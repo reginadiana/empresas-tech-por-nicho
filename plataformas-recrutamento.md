@@ -3,3 +3,7 @@
 [Programador Thor](https://programathor.com.br/)
 
 [Revelo](https://www.revelo.com.br/)
+
+<br/>
+
+🔙 [**Voltar**](https://github.com/reginadiana/empresas-tech-por-nicho)
