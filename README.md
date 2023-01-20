@@ -40,17 +40,33 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 
 [Nubank](https://boards.greenhouse.io/nubank?gh_src=f35a5fb11)
 
+[Banco Inter](https://carreiras.bancointer.com.br/carreiras)
+
+[Banco Pan](https://boards.greenhouse.io/bancopan)
+
+[Pagar.me](https://boards.greenhouse.io/pagarme/)
+
+[Pagseguro](https://pagseguro.gupy.io/)
+
+[XP](https://www.xpinc.com/oportunidades/)
+
 ### :green_heart: Empresas que trabalham com entretenimento
 
 [Spotify](https://www.linkedin.com/company/spotify/life/e535b38f-4070-4a5b-8bb4-2d7b6b76f72c/)
 
 [Globo](https://globo.gupy.io/)
 
-### :green_heart: Empresas que trabalham com varejo
+### :green_heart: Empresas que trabalham com varejo, vendas
 
 [Mercado Livre](https://www.linkedin.com/company/mercadolivre-com/life/5ac289b7-ec6d-4217-afbc-14217207c48c/)
 
 [Magazine Luiza](https://carreiras.magazineluiza.com.br/times/Luizalabs/Desenvolvimento)
+
+[Americanas](https://carreiras.americanas.com/vagas)
+
+[Mobly](https://jobs.kenoby.com/mobly)
+
+[OLX](https://www.olx.com.br/vagas-de-emprego/?utm_source=google&utm_medium=cpc&utm_campaign=webmarketplacenrp_is_mp_sb_bau&pid=googleadwords_int&c=webmarketplacenrp_is_mp_sb_bau&is_retargeting=true&af_click_lookback=14d&gclid=Cj0KCQiAlKmeBhCkARIsAHy7WVtcQUwTzwUcXryjQaVXlaQ7_HQ8XCLPiFa83_S9dY1MF_ZRbFALZ-8aAiC4EALw_wcB)
 
 ### :green_heart: Empresas que trabalham com o mercado imobiliÃ¡rio
 
@@ -65,6 +81,8 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 [ZÃ© Delivery](https://jobs.kenoby.com/zedelivery)
 
 [Ifood](https://carreiras.ifood.com.br/en/)
+
+[Rappi](https://www.rappi.com/jobs/?_gl=1*ilhvia*_ga*Njc0MjA3MjM2LjE2NzQyMTUyODc.*_ga_FGJHX7E4KW*MTY3NDIxNTI4Ni4xLjAuMTY3NDIxNTI4Ny41OS4wLjA.&_ga=2.213119188.1971918572.1674215288-674207236.1674215287)
 
 ### ðŸ’š Empresas que trabalham em prol do meio ambiente
 
@@ -86,6 +104,10 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 
 [Geekhunter](https://geekhunter.gupy.io/)
 
+[Caju](https://caju.gupy.io/)
+
+[Catho](https://www.catho.com.br/vempracatho/)
+
 ### ðŸ’š Empresas que trabalham com moda (fashion tech)
 
 [C&A](https://cea.gupy.io/)
@@ -97,6 +119,10 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 ### Empresas que trabalham com o setor de seguros (seguradoras, insurtechs)
 
 [Youse](https://jobs.kenoby.com/vagas-youse)
+
+### Empresas que trabalham com educaÃ§Ã£o 
+
+[Agenda Edu](https://agendalovers.gupy.io/)
 
 --- 
 
