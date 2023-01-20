@@ -2,8 +2,10 @@
 
 <br/>
 
-## Plataformas de perfil para ser visto por tech recruters ❤️
+## Plataformas para procurar vagas ❤️
 
 [Programador Thor](https://programathor.com.br/)
 
 [Revelo](https://www.revelo.com.br/)
+
+[Github Frontend Vagas](https://github.com/frontendbr/vagas)
