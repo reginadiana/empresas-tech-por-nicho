@@ -75,3 +75,11 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 ### ðŸ’š Empresas que trabalham com moda (fashion tech)
 
 [C&A](https://cea.gupy.io/)
+
+--- 
+
+## Confira mais
+
+:link: [Portfolio de desenvolvedores](https://github.com/reginadiana/empresas-tech-por-nicho/blob/main/portfolio-desenvolvedores.md)
+
+:link: [Plataformas de recrutamento](https://github.com/reginadiana/empresas-tech-por-nicho/blob/main/plataformas-recrutamento.md)
