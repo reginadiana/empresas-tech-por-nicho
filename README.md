@@ -120,15 +120,15 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua�
 
 [Locaweb](https://jobs.kenoby.com/locaweb)
 
-### Empresas que trabalham com o setor de seguros (seguradoras, insurtechs)
+### :green_heart: Empresas que trabalham com o setor de seguros (seguradoras, insurtechs)
 
 [Youse](https://jobs.kenoby.com/vagas-youse)
 
-### Empresas que trabalham com educação 
+### :green_heart: Empresas que trabalham com educação 
 
 [Agenda Edu](https://agendalovers.gupy.io/)
 
-### Empresas que trabalham com logistica
+### :green_heart: Empresas que trabalham com logistica
 
 [Loggi](https://www.loggi.com/carreiras/vagas/)
 
