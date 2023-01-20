@@ -12,6 +12,8 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua√
 
 [Meta](https://www.linkedin.com/company/metaoficial/)
 
+[Codeminer 42](https://www.codeminer42.com/careers)
+
 ### :green_heart: Empresas que trabalham na √°rea de finan√ßas (fintechs, bancos, etc)
 
 [Stone](https://www.linkedin.com/company/stone-co/life/stonetech/)
@@ -44,6 +46,8 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua√
 
 [Mercado Livre](https://www.linkedin.com/company/mercadolivre-com/life/5ac289b7-ec6d-4217-afbc-14217207c48c/)
 
+[Magazine Luiza](https://carreiras.magazineluiza.com.br/times/Luizalabs/Desenvolvimento)
+
 ### :green_heart: Empresas que trabalham com o mercado imobili√°rio
 
 [Loft](https://www.linkedin.com/company/loftbr/life/5efb40e0-8451-4f22-a99f-1c1d0983c1f1/)
@@ -74,9 +78,19 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua√
 
 [Coodesh](https://coodesh.com/)
 
+[Vagas.com](https://www.linkedin.com/company/vagascom/jobs/)
+
 ### üíö Empresas que trabalham com moda (fashion tech)
 
 [C&A](https://cea.gupy.io/)
+
+### :green_heart: Empresas que trabalham desenvolvendo sistemas (de dev para dev :heart:)
+
+[Locaweb](https://jobs.kenoby.com/locaweb)
+
+### Empresas que trabalham com o setor de seguros (seguradoras, insurtechs)
+
+[Youse](https://jobs.kenoby.com/vagas-youse)
 
 --- 
 
