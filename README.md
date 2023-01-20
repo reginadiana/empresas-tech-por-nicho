@@ -6,6 +6,9 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua�
 
 [TOTVS](https://www.linkedin.com/company/totvs/life/98dfa07b-b9d6-49ed-af6f-a63510dc47b9/)
 
+[Rebase](https://www.rebase.com.br/)
+
+[RDStation](https://www.rdstation.com/trabalhe-conosco/)
 
 ### :green_heart: Empresas que trabalham na área de finanças
 
@@ -13,17 +16,32 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua�
 
 [Avenue](https://www.linkedin.com/company/avenue-securities-limited/)
 
+[Vindi](https://vindi.gupy.io/)
 
 ### :green_heart: Empresas que trabalham com entretenimento
 
 [Spotify](https://www.linkedin.com/company/spotify/life/e535b38f-4070-4a5b-8bb4-2d7b6b76f72c/)
 
+[Globo](https://globo.gupy.io/)
 
 ### :green_heart: Empresas que trabalham com varejo
 
 [Mercado Livre](https://www.linkedin.com/company/mercadolivre-com/life/5ac289b7-ec6d-4217-afbc-14217207c48c/)
 
-
 ### :green_heart: Empresas que trabalham com o mercado imobiliário
 
 [Loft](https://www.linkedin.com/company/loftbr/life/5efb40e0-8451-4f22-a99f-1c1d0983c1f1/)
+
+[Quinto Andar](https://carreiras.quintoandar.com.br/)
+
+### 💚 Empresas que trabalham com setor alimenticio (food service)
+
+[Livup](https://carreiras.livup.com.br/jobs/faca-parte-da-nossa-receita-3)
+
+### 💚 Empresas que trabalham em prol do meio ambiente
+
+[Portal Solar](https://www.portalsolar.com.br/)
+
+### 💚 Redes de Academia 
+
+[Bioritmo](https://jobs.solides.com/bioritmo#)
