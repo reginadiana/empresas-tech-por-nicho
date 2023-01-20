@@ -128,6 +128,10 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua√
 
 [Agenda Edu](https://agendalovers.gupy.io/)
 
+### Empresas que trabalham com logistica
+
+[Loggi](https://www.loggi.com/carreiras/vagas/)
+
 --- 
 
 ## Confira mais
