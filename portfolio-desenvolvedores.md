@@ -1,4 +1,6 @@
-🔙 [Voltar](https://github.com/reginadiana/empresas-tech-por-nicho)
+🔙 [**Voltar**](https://github.com/reginadiana/empresas-tech-por-nicho)
+
+<br/>
 
 ## Lista com portfolio de desenvolvedores
 
