@@ -1,3 +1,5 @@
+🔙 [Voltar](https://github.com/reginadiana/empresas-tech-por-nicho)
+
 ## Lista com portfolio de desenvolvedores
 
 :heart: [Diana Regina](https://dianaregina.netlify.app/)
