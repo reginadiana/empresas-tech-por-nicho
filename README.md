@@ -36,6 +36,10 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 
 [RedVentures](https://redventures.com.br/)
 
+[C6Bank](https://boards.greenhouse.io/c6bank)
+
+[Nubank](https://boards.greenhouse.io/nubank?gh_src=f35a5fb11)
+
 ### :green_heart: Empresas que trabalham com entretenimento
 
 [Spotify](https://www.linkedin.com/company/spotify/life/e535b38f-4070-4a5b-8bb4-2d7b6b76f72c/)
@@ -79,6 +83,8 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 [Coodesh](https://coodesh.com/)
 
 [Vagas.com](https://www.linkedin.com/company/vagascom/jobs/)
+
+[Geekhunter](https://geekhunter.gupy.io/)
 
 ### ğŸ’š Empresas que trabalham com moda (fashion tech)
 
