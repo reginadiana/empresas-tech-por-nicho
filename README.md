@@ -66,11 +66,13 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua�
 
 [Bioritmo](https://jobs.solides.com/bioritmo#)
 
-### 💚 Empresas que trabalham com RH
+### 💚 Empresas que trabalham com RH e afins
 
 [Revelo](https://www.linkedin.com/company/revelobrasil/jobs/)
 
 [Solides](https://solides.solides.jobs/)
+
+[Coodesh](https://coodesh.com/)
 
 ### 💚 Empresas que trabalham com moda (fashion tech)
 
