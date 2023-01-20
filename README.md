@@ -66,6 +66,8 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua√
 
 [Mobly](https://jobs.kenoby.com/mobly)
 
+[Enjoei](https://enjoei.gupy.io/)
+
 [OLX](https://www.olx.com.br/vagas-de-emprego/?utm_source=google&utm_medium=cpc&utm_campaign=webmarketplacenrp_is_mp_sb_bau&pid=googleadwords_int&c=webmarketplacenrp_is_mp_sb_bau&is_retargeting=true&af_click_lookback=14d&gclid=Cj0KCQiAlKmeBhCkARIsAHy7WVtcQUwTzwUcXryjQaVXlaQ7_HQ8XCLPiFa83_S9dY1MF_ZRbFALZ-8aAiC4EALw_wcB)
 
 ### :green_heart: Empresas que trabalham com o mercado imobili√°rio
