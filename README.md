@@ -10,13 +10,29 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua�
 
 [RDStation](https://www.rdstation.com/trabalhe-conosco/)
 
-### :green_heart: Empresas que trabalham na área de finanças
+[Meta](https://www.linkedin.com/company/metaoficial/)
+
+### :green_heart: Empresas que trabalham na área de finanças (fintechs, bancos, etc)
 
 [Stone](https://www.linkedin.com/company/stone-co/life/stonetech/)
 
 [Avenue](https://www.linkedin.com/company/avenue-securities-limited/)
 
 [Vindi](https://vindi.gupy.io/)
+
+[Picpay](https://picpay.com/oportunidades-de-emprego-e-carreiras/central-de-vagas)
+
+[Banco Itaú](https://carreiras.itau.com.br/busca-de-vagas)
+
+[Banco Santander](https://santanderbrasil.gupy.io/)
+
+[Banco BV](https://jobs.lever.co/bv)
+
+[BX Blue](https://bxblue.gupy.io/)
+
+[Banco Safra](https://jobs.kenoby.com/safrainvestimentos)
+
+[RedVentures](https://redventures.com.br/)
 
 ### :green_heart: Empresas que trabalham com entretenimento
 
@@ -34,9 +50,13 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua�
 
 [Quinto Andar](https://carreiras.quintoandar.com.br/)
 
-### 💚 Empresas que trabalham com setor alimenticio (food service)
+### 💚 Empresas que trabalham com ramo alimenticio (food service)
 
 [Livup](https://carreiras.livup.com.br/jobs/faca-parte-da-nossa-receita-3)
+
+[Zé Delivery](https://jobs.kenoby.com/zedelivery)
+
+[Ifood](https://carreiras.ifood.com.br/en/)
 
 ### 💚 Empresas que trabalham em prol do meio ambiente
 
@@ -45,3 +65,13 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua�
 ### 💚 Redes de Academia 
 
 [Bioritmo](https://jobs.solides.com/bioritmo#)
+
+### 💚 Empresas que trabalham com RH
+
+[Revelo](https://www.linkedin.com/company/revelobrasil/jobs/)
+
+[Solides](https://solides.solides.jobs/)
+
+### 💚 Empresas que trabalham com moda (fashion tech)
+
+[C&A](https://cea.gupy.io/)
