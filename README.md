@@ -112,6 +112,8 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua√
 
 [C&A](https://cea.gupy.io/)
 
+[Repassa](https://repassa.gupy.io/)
+
 ### :green_heart: Empresas que trabalham desenvolvendo sistemas (de dev para dev :heart:)
 
 [Locaweb](https://jobs.kenoby.com/locaweb)
