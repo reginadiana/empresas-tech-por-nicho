@@ -155,3 +155,5 @@
 :heart: [Fernando Brito](https://fernandobritto.github.io/)
 
 :heart: [Gabriel Teodoro](https://www.gabrielteodoro.com/pt-BR)
+
+:heart: [Devanil](https://devanil.dev/)
