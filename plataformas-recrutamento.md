@@ -11,3 +11,5 @@
 [Github Frontend Vagas](https://github.com/frontendbr/vagas)
 
 [Geekhunter](https://www.geekhunter.com.br/)
+
+[Coodesh](https://coodesh.com/)
