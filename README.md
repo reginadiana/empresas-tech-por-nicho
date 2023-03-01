@@ -14,6 +14,10 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 
 [Codeminer 42](https://www.codeminer42.com/careers)
 
+[Weef](https://weef.com.br/)
+
+[dbccompany](https://www.dbccompany.com.br/)
+
 ### :green_heart: Empresas que trabalham na Ã¡rea de finanÃ§as (fintechs, bancos, etc)
 
 [Stone](https://www.linkedin.com/company/stone-co/life/stonetech/)
@@ -76,6 +80,8 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 
 [Quinto Andar](https://carreiras.quintoandar.com.br/)
 
+[Viva Real (OLX)](https://careers.smartrecruiters.com/OLXBrasil)
+
 ### ðŸ’š Empresas que trabalham com ramo alimenticio (food service)
 
 [Livup](https://carreiras.livup.com.br/jobs/faca-parte-da-nossa-receita-3)
@@ -85,6 +91,8 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 [Ifood](https://carreiras.ifood.com.br/en/)
 
 [Rappi](https://www.rappi.com/jobs/?_gl=1*ilhvia*_ga*Njc0MjA3MjM2LjE2NzQyMTUyODc.*_ga_FGJHX7E4KW*MTY3NDIxNTI4Ni4xLjAuMTY3NDIxNTI4Ny41OS4wLjA.&_ga=2.213119188.1971918572.1674215288-674207236.1674215287)
+
+[ab-inbev]([https://www.ab-inbev.com/](https://www.ab-inbev.com/careers/working-with-us/))
 
 ### ðŸ’š Empresas que trabalham em prol do meio ambiente
 
@@ -110,6 +118,8 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 
 [Catho](https://www.catho.com.br/vempracatho/)
 
+[G2i](https://www.g2i.co/careers)
+
 ### ðŸ’š Empresas que trabalham com moda (fashion tech)
 
 [C&A](https://cea.gupy.io/)
@@ -124,9 +134,23 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 
 [Youse](https://jobs.kenoby.com/vagas-youse)
 
-### :green_heart: Empresas que trabalham com educaÃ§Ã£o 
+### :green_heart: Empresas que trabalham com educaÃ§Ã£o (edtech's)
 
 [Agenda Edu](https://agendalovers.gupy.io/)
+
+[Duolingo](https://boards.greenhouse.io/duolingo)
+
+[Hotmart](https://hotmart.com/en/jobs/positions)
+
+[Alura](https://grupoalura.gupy.io/)
+
+[Estrategia Educacional](https://www.linkedin.com/company/estrategia-educacional/life/a712eac8-39e7-4ce5-baf4-fd4b9a6d7081/)
+
+[Fiap](https://www.fiap.com.br/trabalhe-conosco/)
+
+[Descomplica](https://boards.greenhouse.io/descomplica)
+
+[Gama Academy](https://www.gama.academy/trabalhe-conosco)
 
 ### :green_heart: Empresas que trabalham com logistica
 
