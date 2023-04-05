@@ -18,7 +18,13 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 
 [dbccompany](https://www.dbccompany.com.br/)
 
+[PrimierSoft](https://premiersoft.net/)
+
+:airplane: [FullstackLabs](https://www.fullstacklabs.co/)
+
 ### :green_heart: Empresas que trabalham na Ã¡rea de finanÃ§as (fintechs, bancos, etc)
+
+[BTG Pactual](https://www.btgpactual.com/)
 
 [Stone](https://jornada.stone.com.br/times/tecnologia)
 
@@ -92,7 +98,7 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 
 [Rappi](https://www.rappi.com/jobs/?_gl=1*ilhvia*_ga*Njc0MjA3MjM2LjE2NzQyMTUyODc.*_ga_FGJHX7E4KW*MTY3NDIxNTI4Ni4xLjAuMTY3NDIxNTI4Ny41OS4wLjA.&_ga=2.213119188.1971918572.1674215288-674207236.1674215287)
 
-[ab-inbev]([https://www.ab-inbev.com/](https://www.ab-inbev.com/careers/working-with-us/))
+[ab-inbev](https://www.ab-inbev.com/careers/working-with-us/)
 
 ### ðŸ’š Empresas que trabalham em prol do meio ambiente
 
