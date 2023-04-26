@@ -24,7 +24,7 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atua�
 
 ### :green_heart: Empresas que trabalham na área de finanças (fintechs, bancos, etc)
 
-[BTG Pactual](https://www.btgpactual.com/)
+[BTG Pactual](https://carreiras.btgpactual.com/vagas)
 
 [Stone](https://jornada.stone.com.br/times/tecnologia)
 
