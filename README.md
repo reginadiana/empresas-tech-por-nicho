@@ -104,6 +104,8 @@ _Criei essa lista para facilitar a procura por empresas baseado no ramo de atuaÃ
 
 [Portal Solar](https://www.portalsolar.com.br/)
 
+[Seedz](https://seedz.gupy.io/)
+
 ### ðŸ’š Redes de Academia 
 
 [Bioritmo](https://jobs.solides.com/bioritmo#)
