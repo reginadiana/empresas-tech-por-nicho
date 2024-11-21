@@ -4,7 +4,7 @@
 
 ## Lista com portfolio de desenvolvedores
 
-:heart: [Diana Regina](https://dianaregina.netlify.app/)
+:heart: [Diana Regina](https://reginadiana.github.io/site/)
 
 :heart: [Alyne Alice Vieira](https://alynealicevieira.netlify.app/#)
 
